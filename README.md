@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hamdi Bouaskar, IT Support Specialist, Senior Customer Technical Support and JavaScript / Django Full Stack Developer.
-- 👀 I’m interested in mostly in Python and Django developement. Else, I am studying React, Kotlin and c#. 
+- 👀 I’m interested mostly in Python and Django developement. Else, I am studying React as front-end framework, Kotlin for Android development and C# for desktop developement. 
 - 📫 How to reach me https://www.hamdi-bouaskar.com
 - 🌍 Languages: Fluent English, Fluent French, Native Arabic, Conversational German.
 <!---
