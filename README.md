@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Hamdi Bouaskar, IT Support Specialist, Senior Customer Technical Support and JavaScript / Django Full Stack Developer.
 - 👀 I’m interested mostly in Python and Django developement. Current project: Django Ecommerce app with advanced features.
+
   Preview  https://github.com/IT-Support-L2/mytek
+ 
 - 🚀 Currently, I am racing the time to finish studying: React as front-end framework, Kotlin for Android development and C# for desktop developement. 
 - 📫 How to reach me https://hamdi-bouaskar.herokuapp.com
 - 🌍 Languages: Fluent English, Fluent French, Native Arabic, Conversational German.
