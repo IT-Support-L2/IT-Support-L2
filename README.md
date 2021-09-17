@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hamdi Bouaskar, IT Support Specialist, Senior Customer Technical Support and JavaScript / Django Full Stack Developer.
+- 👋 Hi, I’m Hamdi Bouaskar, IT Support Specialist, Senior Customer Technical Support and Python | Django Developer.
 
 - 👀 I’m interested mostly in Python and Django developement. 
 
