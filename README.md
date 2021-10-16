@@ -12,6 +12,7 @@
 - JavaScript
 - jQuery
 - Django
+- Django Rest Framework
 - Python
 - Git
 - Bash
