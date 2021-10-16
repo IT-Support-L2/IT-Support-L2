@@ -7,7 +7,7 @@
 
 📫 How to reach me https://hamdi-bouaskar.herokuapp.com
 
-🌍 Languages: Fluent English, Fluent French, Native Arabic, Conversational German.
+🌍 Languages: Native `Arabic`, Fluent `English`, Fluent `French`, Conversational `German`.
 
 <!---
 IT-Support-L2/IT-Support-L2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
