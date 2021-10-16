@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Hamdi Bouaskar, `IT Support Specialist`, `Senior Customer Technical Support`, `Python` Developer and `Junior Full Stack Django` Developer, `backend` oriented.
+- 👋 Hi, Myn mae is Hamdi Bouaskar. I am:
+-  `IT Support Specialist` 
+-  `Senior Customer Technical Support`
+-  `Advanced Python Developer`
+-  `Junior Full Stack Django Developer`, `backend` oriented
 
 - 📫 How to reach me https://hamdi-bouaskar.herokuapp.com
 
