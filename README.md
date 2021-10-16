@@ -5,6 +5,23 @@
 -  `Advanced Python Developer`
 -  `Junior Full Stack Django Developer`, `backend` oriented
 
+👨‍💻 Current expertise:
+
+- HTML / CSS  
+- Bootstrap
+- JavaScript
+- jQuery
+- Django
+- Python
+- Git
+- Bash
+- PowerShell
+- AWS EC2, AWS ElasticBeanstalk
+- Azure Storage
+- Heroku Web Server
+- NGINX
+- Docker
+
 📫 How to reach me https://hamdi-bouaskar.herokuapp.com
 
 🌍 Languages: Native `Arabic`, Fluent `English`, Fluent `French`, Conversational `German`.
