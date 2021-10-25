@@ -3,7 +3,7 @@
 -  `IT Support Specialist` 
 -  `Senior Customer Technical Support`
 -  `Advanced Python Developer`
--  `Junior Full Stack Django Developer`, `backend` oriented
+-  `Middle Full Stack Django Developer`, `Heavy backend`
 
 👨‍💻 Current expertise:
 
