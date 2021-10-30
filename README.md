@@ -15,7 +15,7 @@
 
 
 
-📫 Email me [I'm an inline-style link with title](mailto:itech@cyberservices.com)
+📫 [Email me](mailto:itech@cyberservices.com)
 
 🌍 Languages: Native `Arabic`, Fluent `English`, Fluent `French`, Conversational `German`.
 
