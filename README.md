@@ -7,7 +7,8 @@
 
 👨‍💻 Current expertise:
 
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/aws.png" />
+
 
 📫 How to reach me https://hamdi-bouaskar.herokuapp.com
 
