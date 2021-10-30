@@ -2,7 +2,6 @@
 
 -  `IT Support Specialist` 
 -  `Senior Customer Technical Support`
--  `Advanced Python Developer`
 -  `Middle Full Stack Django Developer`, `Heavy backend`
 
 
