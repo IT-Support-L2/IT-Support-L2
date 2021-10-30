@@ -8,23 +8,23 @@
 
 👨‍💻 Current expertise:
 
-<pre align="left">
-<img alt="python" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/python.png" />
-<img alt="django" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/django.png" />
-<img alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/aws.png" />
-<img alt="azure" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/azure.png" />
-<img alt="heroku" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/heroku.png" />
-<img alt="gcp" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/gcp.png" />
-<img alt="html" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/html.png" />
-<img alt="css" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/css.png" />
-<img alt="javascript" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/javascript.png" />
-<img alt="jquery" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/jquery.png" />
-<img alt="bootstrap" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/bootstrap.png" />
-<img alt="powerhsell" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/powershell.png" />
-<img alt="bash" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/bash.png" />
-<img alt="docker" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/docker.png" />
-<img alt="git" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/git.png" />
-<img alt="nginx" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/nginx.png" />
+
+<img align="left" alt="python" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/python.png" />
+<img align="left" alt="django" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/django.png" />
+<img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/aws.png" />
+<img align="left" alt="azure" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/azure.png" />
+<img align="left" alt="heroku" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/heroku.png" />
+<img align="left" alt="gcp" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/gcp.png" />
+<img align="left" alt="html" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/html.png" />
+<img align="left" alt="css" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/css.png" />
+<img align="left" alt="javascript" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/javascript.png" />
+<img align="left" alt="jquery" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/jquery.png" />
+<img align="left" alt="bootstrap" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/bootstrap.png" />
+<img align="left" alt="powerhsell" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/powershell.png" />
+<img align="left" alt="bash" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/bash.png" />
+<img align="left" alt="docker" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/docker.png" />
+<img align="left" alt="git" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/git.png" />
+<img align="left" alt="nginx" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/nginx.png" />
 </pre>
 
 📫 [Email me](mailto:itech@cyberservices.com)
