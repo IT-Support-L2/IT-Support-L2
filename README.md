@@ -8,10 +8,11 @@
 <br/>
 
 👨‍💻 Current expertise:
-<span>
+
+<DIV>
 <img align="left" alt="python" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/python.png" /><img align="left" alt="django" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/django.png" />
 <img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/aws.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/azure.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/heroku.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/gcp.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/html.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/css.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/javascript.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/jquery.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/bootstrap.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/powershell.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/bash.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/docker.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/git.png" /><img align="left" alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/nginx.png" />
-</span>
+</DIV>
 <br/>
 
 📫 [Email me](mailto:itech@cyberservices.com)
