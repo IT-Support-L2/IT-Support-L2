@@ -17,8 +17,6 @@
 
 📫 [Email me](mailto:itech@cyberservices.com)
 
-<br/><br/>
-
 📑 <a href="https://hamdi-bouaskar.herokuapp.com" target="_blank">Portfolio Website</a>
 
 🌍 Languages: Native `Arabic`, Fluent `English`, Fluent `French`, Conversational `German`.
