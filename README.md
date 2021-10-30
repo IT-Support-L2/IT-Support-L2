@@ -7,21 +7,7 @@
 
 👨‍💻 Current expertise:
 
-- HTML / CSS  
-- Bootstrap
-- JavaScript
-- jQuery
-- Django
-- Django Rest Framework
-- Python
-- Git
-- Bash
-- PowerShell
-- AWS EC2, AWS ElasticBeanstalk
-- Azure Storage
-- Heroku Web Server
-- NGINX
-- Docker
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][blog]
 
 📫 How to reach me https://hamdi-bouaskar.herokuapp.com
 
