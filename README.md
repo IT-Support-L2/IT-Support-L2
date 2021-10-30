@@ -25,8 +25,8 @@
 <img align="left" alt="docker" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/docker.png" />
 <img align="left" alt="git" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/git.png" />
 <img align="left" alt="nginx" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/nginx.png" />
-</pre>
-
+<br/>
+<br/>
 📫 [Email me](mailto:itech@cyberservices.com)
 
 📑 <a href="https://hamdi-bouaskar.herokuapp.com" target="_blank">Portfolio Website</a>
