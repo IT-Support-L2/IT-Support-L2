@@ -18,7 +18,7 @@
 
 <br/>
 
-📑 [Portfolio Website](https://hamdi-bouaskar.herokuapp.com)
+📑 [<a href="https://hamdi-bouaskar.herokuapp.com" target="_blank">Portfolio Website</a>]
 
 🌍 Languages: Native `Arabic`, Fluent `English`, Fluent `French`, Conversational `German`.
 
