@@ -8,7 +8,7 @@
 
 👨‍💻 Current expertise:
 
-<pre>
+<pre align="left">
 <img alt="python" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/python.png" />
 <img alt="django" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/django.png" />
 <img alt="aws" width="30px" src="https://github.com/IT-Support-L2/icons/blob/main/aws.png" />
