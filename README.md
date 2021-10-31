@@ -2,7 +2,7 @@
 
 -  `IT Support Specialist` 
 -  `Senior Customer Technical Support`
--  `Middle Full Stack Django Developer`, `Heavy backend`
+-  `Full Stack Django Developer`, `Heavy backend`
 
 
 👨‍💻 Current skills
