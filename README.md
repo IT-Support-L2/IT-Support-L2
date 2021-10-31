@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-📫 [Email me](mailto:itech@cyberservices.com)
+📫 [<img src="https://github.com/IT-Support-L2/icons/blob/main/mail.png" width="25"/>](mailto:itech@cyberservices.com)
 
 📑 <a href="https://hamdi-bouaskar.herokuapp.com" target="_blank">Portfolio Website</a>
 
