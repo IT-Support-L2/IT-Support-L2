@@ -1,4 +1,7 @@
-👋 Hi, My name is **_Hamdi Bouaskar_**, I am:
+### _About me_
+
+
+Hi, My name is **_Hamdi Bouaskar_**, I am:
 
 -  **_IT Support Specialist_**
 -  **_Senior Customer Technical Support_**
@@ -12,14 +15,13 @@
 <br/>
 <br/>
 
-### Email me
+### _Email me_
 [<img src="https://github.com/IT-Support-L2/icons/blob/main/mail.png" width="50"/>](mailto:itech@cyberservices.com)
 
-### Portfolio Website
+### _Portfolio Website_
 <a href="https://hamdi-bouaskar.herokuapp.com" target="_blank"><img src="https://github.com/IT-Support-L2/icons/blob/main/portfolio-website.png"></a>
 
-
-### Languages 
+### _Languages_ 
 - Native **_Arabic_**
 - Fluent **_English_**
 - Fluent **_French_**
