@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-📫 <a href="#" class="button">Email Me (mailto:itech@cyberservices.com)</a>
+📫 <a href="mailto:itech@cyberservices.com" class="button pill">Email me</a>
 
 📑 <a href="https://hamdi-bouaskar.herokuapp.com" target="_blank">Portfolio Website</a>
 
