@@ -1,6 +1,6 @@
 👋 Hi, My name is **_Hamdi Bouaskar_**, I am:
 
--  **_IT Support Specialist_**` 
+-  **_IT Support Specialist_**
 -  **_Senior Customer Technical Support_**
 -  **_Full Stack Django Developer`, Heavy backend_**
 
@@ -12,11 +12,18 @@
 <br/>
 <br/>
 
+### Email me
 [<img src="https://github.com/IT-Support-L2/icons/blob/main/mail.png" width="50"/>](mailto:itech@cyberservices.com)
 
-📑 <a href="https://hamdi-bouaskar.herokuapp.com" target="_blank">Portfolio Website</a>
+### Portfolio Website
+<a href="https://hamdi-bouaskar.herokuapp.com" target="_blank"><img src="https://github.com/IT-Support-L2/icons/blob/main/portfolio-website.png"></a>
 
-🌍 ### Languages: Native `Arabic`, Fluent `English`, Fluent `French`, Conversational `German`.
+
+### Languages 
+- Native **_Arabic_**
+- Fluent **_English_**
+- Fluent **_French_**
+- Conversational **_German_**
 
 <!---
 IT-Support-L2/IT-Support-L2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
