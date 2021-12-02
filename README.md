@@ -3,14 +3,13 @@
 
 Hi, My name is **_Hamdi Bouaskar_**, I am:
 
--  **_Senior IT Support Specialist_**
--  **_Senior Customer Technical Support_**
--  **_Full Stack Django Developer, Heavy backend_**
+-  **_Senior IT Support Engineer_**
+-  **_Full Stack Django & NodeJS Developer, Heavy backend_**
 
 
 
 
-### _Current skills_
+### _Top skills_
 
 
 
