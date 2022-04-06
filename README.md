@@ -3,8 +3,8 @@
 
 Hi, My name is **_Hamdi Bouaskar_**, I am:
 
--  **_Senior IT Support Engineer L2_**
--  **_Full Stack Django & NodeJS Developer, Heavy backend_**
+-  **_IT Engineer L2_**
+-  **_Django Backend Engineer_**
 
 
 
