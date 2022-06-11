@@ -3,8 +3,8 @@
 
 Hi, My name is **_Hamdi Bouaskar_**, I am:
 
--  **_IT Engineer L2_**
--  **_Django Backend Engineer_**
+-  **_IT Engineer L2 for more than 15 years with variety of skills, knowledge and experience._**
+
 
 
 
