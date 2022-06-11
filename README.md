@@ -4,7 +4,7 @@
 Hi, My name is **_Hamdi Bouaskar_**, I am:
 
 -  **_IT Engineer L2 for more than 15 years with variety of skills, knowledge and experience._**
-- **_ Please visit my portfolio website for in-depth details about skills and stacks. Thank you._**
+- **_Please visit my portfolio website for in-depth details about skills and stacks. Thank you._**
 <br/>
 
 ### _Email me_
