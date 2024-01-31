@@ -4,14 +4,13 @@
 Hi, My name is **_Hamdi Bouaskar_**, I am:
 
 -  **_IT Engineer L2 for more than 15 years with variety of skills, knowledge and experience._**
-- **_Please visit my portfolio website for in-depth details about skills and stacks. Thank you._**
 <br/>
 
 ### _Email me_
 [<img src="https://github.com/IT-Support-L2/icons/blob/main/mail.png" width="50"/>](mailto:hamdi.bouaskare@protonmail.com)
 
-### _Portfolio Website_
-<a href="https://hamdi-bouaskar.herokuapp.com" target="_blank"><img src="https://github.com/IT-Support-L2/icons/blob/main/portfolio-website.png"></a>
+### _LinkedIn_
+<a href="https://linkedin.com/in/cyber-services" target="_blank"><img src="https://github.com/IT-Support-L2/icons/blob/main/portfolio-website.png"></a>
 
 ### _Languages_ 
 - Native **_Arabic_**
