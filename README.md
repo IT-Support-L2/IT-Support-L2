@@ -3,7 +3,7 @@
 
 Hi, My name is **_Hamdi Bouasker_**, I am:
 
--  **_I am IT Manager with variety of skills, knowledge and experience._**
+-  **_IT Manager with variety of skills, knowledge and experience._**
 <br/>
 
 ### _Email me_
