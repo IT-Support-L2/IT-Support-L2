@@ -3,7 +3,7 @@
 
 Hi, My name is **_Hamdi Bouasker_**, I am:
 
--  **_IT Support Engineer for more than 15 years with variety of skills, knowledge and experience._**
+-  **_I am IT Manager with variety of skills, knowledge and experience._**
 <br/>
 
 ### _Email me_
