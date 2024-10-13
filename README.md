@@ -11,7 +11,7 @@ Hi, My name is **_Hamdi Bouasker_**, I am:
 
 ### _LinkedIn_
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="hamdi-bouasker" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tn.linkedin.com/in/hamdi-bouasker?trk=profile-badge">Hamdi Bouasker</a></div>
+<a href="https://linkedin.com/in/hamdi-bouasker" target="_blank"><img src="https://github.com/IT-Support-L2/icons/blob/main/portfolio-website.png"></a>
 
 ### _Languages_ 
 - Native **_Arabic_**
